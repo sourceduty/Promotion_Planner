@@ -18,6 +18,8 @@ Promotion Planner follows best practices for various promotional channels, wheth
 [E-commerce Simulator](https://chatgpt.com/g/g-OzfrZnCTe-e-commerce-simulator)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Business Prediction](https://chatgpt.com/g/g-NeRUwW82v-business-prediction)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
