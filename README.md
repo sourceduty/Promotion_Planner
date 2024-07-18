@@ -4,7 +4,7 @@
 
 #
 
-[Promotion Planner]() was developed to assist users in developing professional and effective promotions. It offers guidance on a wide range of marketing activities, including crafting compelling copy, designing visually appealing graphics, and planning comprehensive promotional campaigns. By focusing on these core elements, Promotion Planner ensures that users can create promotions that not only capture attention but also drive engagement and conversions.
+[Promotion Planner](https://chatgpt.com/g/g-uCBlwudc9-promotion-planner) was developed to assist users in developing professional and effective promotions. It offers guidance on a wide range of marketing activities, including crafting compelling copy, designing visually appealing graphics, and planning comprehensive promotional campaigns. By focusing on these core elements, Promotion Planner ensures that users can create promotions that not only capture attention but also drive engagement and conversions.
 
 One of the key strengths of Promotion Planner is its emphasis on understanding the target audience. It helps users identify and segment their audience, tailoring messages and designs to meet their specific needs and preferences. This user-centric approach ensures that promotions resonate with the intended audience, increasing the likelihood of success. Additionally, Promotion Planner emphasizes the importance of maintaining brand consistency across all promotional materials, helping users build and sustain a cohesive brand identity.
 
